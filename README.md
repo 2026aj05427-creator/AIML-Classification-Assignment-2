@@ -19,7 +19,7 @@ Build and compare five supervised classification models to predict whether a bre
 The 30 input features summarize ten characteristics of cell nuclei (radius, texture, perimeter, area, smoothness, compactness, concavity, concave points, symmetry and fractal dimension), each represented by mean, standard error and worst values.
 
 ## c. GitHub Repository Link
-**Add your repository URL here after creating your own GitHub repository.**
+https://github.com/2026aj05427-creator/AIML-Classification-Assignment-2
 
 ## d. Models used
 
