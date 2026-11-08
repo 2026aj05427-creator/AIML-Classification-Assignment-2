@@ -49,7 +49,7 @@ Use the following as a starting point, then explain the metric trade-offs in you
 
 ## Streamlit application
 The app supports:
-1. CSV upload.
+1. CSV upload.(download the test data from here https://github.com/2026aj05427-creator/AIML-Classification-Assignment-2/blob/main/test_data.csv )
 2. Model selection dropdown.
 3. Accuracy, AUC, Precision, Recall, F1 and MCC display.
 4. Confusion matrix and classification report.
