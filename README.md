@@ -70,11 +70,3 @@ streamlit run app.py
 - `model/`: five serialized trained model pipelines.
 - `results/model_comparison.csv`: evaluation table.
 
-## Deployment and submission checklist
-- Create your own GitHub repository and push the project files.
-- Deploy `app.py` from the repository using Streamlit Community Cloud.
-- Test the live app by uploading `test_data.csv`.
-- Run the project in BITS Virtual Lab and take the required screenshot.
-- Replace the GitHub placeholder above with your working repository URL.
-- Add the live Streamlit URL and the BITS Lab screenshot to the final PDF.
-- Include this README content in the PDF, in the order required by the assignment.
